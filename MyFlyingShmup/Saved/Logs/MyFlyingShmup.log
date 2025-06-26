@@ -1489,3 +1489,441 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.26-03.30.07:828][ 37]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1356.244751
 [2025.06.26-03.30.08:828][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.26-03.30.08:828][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1356.911499, Update Interval: 329.447906
+[2025.06.26-03.31.39:661][318]LogSlate: Took 0.007454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.26-03.31.48:636][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.26-03.31.48:641][471]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.26-03.31.48:647][471]LogChaosDD: Creating Chaos Debug Draw Scene for world Week2
+[2025.06.26-03.31.48:649][471]LogWorldPartition: ULevel::OnLevelLoaded(Week2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.06.26-03.31.48:649][471]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.26-03.31.48:649][471]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Week2.Week2, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.26-03.31.48:763][471]LogWorldPartition: Display: WorldPartition initialize took 113.869 ms (total: 1.06 sec)
+[2025.06.26-03.31.48:766][471]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Week2.Week2
+[2025.06.26-03.31.48:768][471]Cmd: MAP LOAD FILE="../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Week2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.06.26-03.31.48:800][471]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-03.31.48:801][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-03.31.48:802][471]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.06.26-03.31.48:824][471]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.26-03.31.48:868][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.06.26-03.31.48:877][471]LogWorld: UWorld::CleanupWorld for Week2, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-03.31.48:877][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-03.31.48:877][471]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Week2.Week2
+[2025.06.26-03.31.48:890][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.06.26-03.31.48:899][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.06.26-03.31.48:903][471]LogAudio: Display: Audio Device (ID: 1) registered with world 'Week2'.
+[2025.06.26-03.31.48:903][471]LogChaosDD: Creating Chaos Debug Draw Scene for world Week2
+[2025.06.26-03.31.48:904][471]LogWorldPartition: ULevel::OnLevelLoaded(Week2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.06.26-03.31.48:904][471]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.26-03.31.48:904][471]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Week2.Week2, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.26-03.31.48:913][471]LogWorldPartition: Display: WorldPartition initialize took 9.048 ms (total: 1.07 sec)
+[2025.06.26-03.31.48:950][471]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.26-03.31.48:963][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.06.26-03.31.48:973][471]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.26-03.31.48:973][471]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.712ms to complete.
+[2025.06.26-03.32.07:495][773]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.26-03.32.07:515][773]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.26-03.32.07:532][774]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.26-03.32.10:312][832]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.06.26-03.32.10:314][832]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.26-03.32.19:189][ 13]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.26-03.32.19:408][ 13]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.06.26-03.32.19:561][ 15]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.06.26-03.32.19:815][ 23]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.06.26-03.32.22:375][133]LogMetaData: Removing '/Game/Blueprints/TankShell.TankShell:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:375][133]LogMetaData: Removing '/Game/Blueprints/TankShell.TankShell_C' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:375][133]LogMetaData: Removing '/Game/Blueprints/TankShell.TankShell:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:375][133]LogMetaData: Removing '/Game/Blueprints/TankShell.TankShell:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:375][133]LogMetaData: Removing '/Game/Blueprints/TankShell.TankShell:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:375][133]LogMetaData: Removing '/Game/Blueprints/TankShell.SKEL_TankShell_C:ReceiveBeginPlay' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:375][133]LogMetaData: Removing '/Game/Blueprints/TankShell.SKEL_TankShell_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:376][133]LogMetaData: Removing '/Game/Blueprints/TankShell.SKEL_TankShell_C:ReceiveTick' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:376][133]LogMetaData: Removing '/Game/Blueprints/TankShell.SKEL_TankShell_C:UserConstructionScript' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:376][133]LogMetaData: Removing '/Game/Blueprints/TankShell.SKEL_TankShell_C' ref from Metadata '/Game/TankShell.PackageMetaData'
+[2025.06.26-03.32.22:398][133]LogMetaData: Removing '/Game/Blueprints/Tank.Tank:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tank.PackageMetaData'
+[2025.06.26-03.32.22:399][133]LogMetaData: Removing '/Game/Blueprints/Tank.Tank_C' ref from Metadata '/Game/Tank.PackageMetaData'
+[2025.06.26-03.32.22:399][133]LogMetaData: Removing '/Game/Blueprints/Tank.SKEL_Tank_C:ReceiveTick' ref from Metadata '/Game/Tank.PackageMetaData'
+[2025.06.26-03.32.22:399][133]LogMetaData: Removing '/Game/Blueprints/Tank.SKEL_Tank_C:UserConstructionScript' ref from Metadata '/Game/Tank.PackageMetaData'
+[2025.06.26-03.32.22:399][133]LogMetaData: Removing '/Game/Blueprints/Tank.SKEL_Tank_C' ref from Metadata '/Game/Tank.PackageMetaData'
+[2025.06.26-03.32.22:399][133]LogMetaData: Removing '/Game/Blueprints/Tank.Tank_C:ReceiveTick' ref from Metadata '/Game/Tank.PackageMetaData'
+[2025.06.26-03.32.22:413][133]LogMetaData: Removing '/Game/Blueprints/MyFirstPlayerPawn.MyFirstPlayerPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyFirstPlayerPawn.PackageMetaData'
+[2025.06.26-03.32.22:413][133]LogMetaData: Removing '/Game/Blueprints/MyFirstPlayerPawn.MyFirstPlayerPawn_C' ref from Metadata '/Game/MyFirstPlayerPawn.PackageMetaData'
+[2025.06.26-03.32.22:413][133]LogMetaData: Removing '/Game/Blueprints/MyFirstPlayerPawn.MyFirstPlayerPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyFirstPlayerPawn.PackageMetaData'
+[2025.06.26-03.32.22:413][133]LogMetaData: Removing '/Game/Blueprints/MyFirstPlayerPawn.SKEL_MyFirstPlayerPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/MyFirstPlayerPawn.PackageMetaData'
+[2025.06.26-03.32.22:413][133]LogMetaData: Removing '/Game/Blueprints/MyFirstPlayerPawn.SKEL_MyFirstPlayerPawn_C:ReceiveTick' ref from Metadata '/Game/MyFirstPlayerPawn.PackageMetaData'
+[2025.06.26-03.32.22:413][133]LogMetaData: Removing '/Game/Blueprints/MyFirstPlayerPawn.SKEL_MyFirstPlayerPawn_C:UserConstructionScript' ref from Metadata '/Game/MyFirstPlayerPawn.PackageMetaData'
+[2025.06.26-03.32.22:413][133]LogMetaData: Removing '/Game/Blueprints/MyFirstPlayerPawn.SKEL_MyFirstPlayerPawn_C' ref from Metadata '/Game/MyFirstPlayerPawn.PackageMetaData'
+[2025.06.26-03.32.22:413][133]LogMetaData: Removing '/Game/Blueprints/MyFirstPlayerPawn.MyFirstPlayerPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/MyFirstPlayerPawn.PackageMetaData'
+[2025.06.26-03.32.22:413][133]LogMetaData: Removing '/Game/Blueprints/MyFirstPlayerPawn.MyFirstPlayerPawn_C:ReceiveTick' ref from Metadata '/Game/MyFirstPlayerPawn.PackageMetaData'
+[2025.06.26-03.32.22:424][133]LogMetaData: Removing '/Game/Blueprints/BP_Projectile_Bullet.BP_Projectile_Bullet_C' ref from Metadata '/Game/BP_Projectile_Bullet.PackageMetaData'
+[2025.06.26-03.32.22:424][133]LogMetaData: Removing '/Game/Blueprints/BP_Projectile_Bullet.SKEL_BP_Projectile_Bullet_C' ref from Metadata '/Game/BP_Projectile_Bullet.PackageMetaData'
+[2025.06.26-03.32.22:435][133]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.BP_Projectile_C' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2025.06.26-03.32.22:435][133]LogMetaData: Removing '/Game/Blueprints/BP_Projectile.SKEL_BP_Projectile_C' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2025.06.26-03.32.22:448][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.26-03.32.22:449][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/TankShell] ([2] browsable assets)...
+[2025.06.26-03.32.22:449][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TankShell]
+[2025.06.26-03.32.22:468][133]LogSavePackage: Moving output files for package: /Game/Blueprints/TankShell
+[2025.06.26-03.32.22:468][133]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/TankShellEE7BD9E842CF14A36700FF8A2CEE7525.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/TankShell.uasset'
+[2025.06.26-03.32.22:476][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Tank] ([2] browsable assets)...
+[2025.06.26-03.32.22:476][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tank]
+[2025.06.26-03.32.22:476][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank" FILE="../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/Tank.uasset" SILENT=true
+[2025.06.26-03.32.22:486][133]LogSavePackage: Moving output files for package: /Game/Blueprints/Tank
+[2025.06.26-03.32.22:486][133]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/TankFFE29F4347772502BB27E2A29608C180.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/Tank.uasset'
+[2025.06.26-03.32.22:490][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tank] ([5] browsable assets)...
+[2025.06.26-03.32.22:490][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank]
+[2025.06.26-03.32.22:490][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank" FILE="../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Tank.uasset" SILENT=true
+[2025.06.26-03.32.22:491][133]LogSavePackage: Moving output files for package: /Game/Tank
+[2025.06.26-03.32.22:492][133]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Tank915091144896392D473F87BC6AFF37DA.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Tank.uasset'
+[2025.06.26-03.32.22:496][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/MyFirstPlayerPawn] ([2] browsable assets)...
+[2025.06.26-03.32.22:496][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyFirstPlayerPawn]
+[2025.06.26-03.32.22:508][133]LogSavePackage: Moving output files for package: /Game/Blueprints/MyFirstPlayerPawn
+[2025.06.26-03.32.22:508][133]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/MyFirstPlayerPawnBA3506134AFCF1FC0A2894BFABC48B4E.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/MyFirstPlayerPawn.uasset'
+[2025.06.26-03.32.22:510][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Projectile_Bullet] ([2] browsable assets)...
+[2025.06.26-03.32.22:510][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Projectile_Bullet]
+[2025.06.26-03.32.22:512][133]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Projectile_Bullet
+[2025.06.26-03.32.22:513][133]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Projectile_Bullet3E7F2DB549496F37CA0A1B9D145A45B3.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/BP_Projectile_Bullet.uasset'
+[2025.06.26-03.32.22:515][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Projectile] ([2] browsable assets)...
+[2025.06.26-03.32.22:515][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Projectile]
+[2025.06.26-03.32.22:517][133]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Projectile
+[2025.06.26-03.32.22:517][133]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_ProjectileFDA9EC2B4D5CF870E5061FA985C4E9A5.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/BP_Projectile.uasset'
+[2025.06.26-03.32.22:520][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.842 ms
+[2025.06.26-03.32.22:590][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.26-03.32.22:600][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.06.26-03.32.22:611][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.26-03.32.22:679][133]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.06.26-03.32.22:679][133]LogContentValidation: Display: Starting to validate 8 assets
+[2025.06.26-03.32.22:679][133]LogContentValidation: Enabled validators:
+[2025.06.26-03.32.22:681][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.26-03.32.22:681][133]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.26-03.32.22:681][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.26-03.32.22:681][133]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.26-03.32.22:681][133]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.26-03.32.22:681][133]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.26-03.32.22:682][133]AssetCheck: /Game/Blueprints/TankShell Validating asset
+[2025.06.26-03.32.22:682][133]AssetCheck: /Game/Blueprints/Tank Validating asset
+[2025.06.26-03.32.22:682][133]AssetCheck: /Game/Tank Validating asset
+[2025.06.26-03.32.22:682][133]AssetCheck: /Game/Tank Validating asset
+[2025.06.26-03.32.22:682][133]AssetCheck: /Game/Tank Validating asset
+[2025.06.26-03.32.22:682][133]AssetCheck: /Game/Blueprints/MyFirstPlayerPawn Validating asset
+[2025.06.26-03.32.22:682][133]AssetCheck: /Game/Blueprints/BP_Projectile_Bullet Validating asset
+[2025.06.26-03.32.22:682][133]AssetCheck: /Game/Blueprints/BP_Projectile Validating asset
+[2025.06.26-03.32.43:818][468]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.06.26-03.32.43:909][468]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.26-03.32.43:917][468]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.26-03.32.43:937][469]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.26-03.32.53:989][681]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy_A
+[2025.06.26-03.32.54:000][681]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.26-03.33.12:390][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy_A.BP_Enemy_A
+[2025.06.26-03.33.12:392][987]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.06.26-03.33.12:646][987]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.26-03.33.17:482][ 70]LogSlate: Window 'BP_Enemy_A' being destroyed
+[2025.06.26-03.33.31:536][405]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.06.26-03.33.31:639][406]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.06.26-03.33.31:708][407]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.06.26-03.35.05:304][337]LogSlate: Took 0.006520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.26-03.35.08:938][518]LogSlate: Window 'EventGraph' being destroyed
+[2025.06.26-03.36.03:925][602]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1712.344482
+[2025.06.26-03.36.04:240][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-03.36.04:241][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1712.635498, Update Interval: 320.252075
+[2025.06.26-03.41.49:098][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.06.26-03.41.49:099][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.040
+[2025.06.26-03.41.49:100][637]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Enemy_A] ([2] browsable assets)...
+[2025.06.26-03.41.49:168][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Enemy_A.BP_Enemy_A]
+[2025.06.26-03.41.49:168][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_A]
+[2025.06.26-03.41.49:174][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_A_Auto1
+[2025.06.26-03.41.49:174][637]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_A_Auto1E19DACAD40A8242473C137AFB0607056.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_Enemy_A_Auto1.uasset'
+[2025.06.26-03.41.49:175][637]LogFileHelpers: Auto-saving content packages took 0.075
+[2025.06.26-03.42.12:913][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2081.330078
+[2025.06.26-03.42.13:916][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-03.42.13:916][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2081.998047, Update Interval: 321.358063
+[2025.06.26-03.43.54:620][201]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.06.26-03.43.54:639][201]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.26-03.43.54:646][201]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.26-03.43.54:657][202]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.26-03.44.03:347][392]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EnemySpawner
+[2025.06.26-03.44.03:354][392]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.26-03.44.06:859][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner
+[2025.06.26-03.44.06:860][458]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.06.26-03.44.13:935][552]LogSlate: Window 'BP_EnemySpawner' being destroyed
+[2025.06.26-03.48.29:112][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2457.522705
+[2025.06.26-03.48.30:111][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-03.48.30:111][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2458.188721, Update Interval: 358.842743
+[2025.06.26-03.51.49:587][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.06.26-03.51.49:588][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.040
+[2025.06.26-03.51.49:589][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.06.26-03.51.49:589][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.06.26-03.51.49:592][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto2
+[2025.06.26-03.51.49:592][533]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_EnemySpawner_Auto261A91BD140C5147946D2C88A40BB980F.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto2.uasset'
+[2025.06.26-03.51.49:593][533]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.06.26-03.55.18:351][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2866.772461
+[2025.06.26-03.55.18:690][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-03.55.18:690][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2867.055420, Update Interval: 338.610809
+[2025.06.26-04.00.46:417][261]LogEditorTransaction: Undo Show Exec pins
+[2025.06.26-04.00.54:704][706]LogSlate: Took 0.011337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.06.26-04.01.01:973][  3]LogSlate: Window 'Delete Variable' being destroyed
+[2025.06.26-04.01.34:056][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3242.483643
+[2025.06.26-04.01.34:372][166]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.01.34:373][166]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3242.784180, Update Interval: 309.684753
+[2025.06.26-04.02.30:505][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.26-04.02.30:509][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.025
+[2025.06.26-04.02.30:509][273]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Enemy_A] ([2] browsable assets)...
+[2025.06.26-04.02.30:509][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_A]
+[2025.06.26-04.02.30:513][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_A_Auto3
+[2025.06.26-04.02.30:513][273]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_A_Auto36F54605140C245E07888B4986CA75A2A.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_Enemy_A_Auto3.uasset'
+[2025.06.26-04.02.30:514][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.06.26-04.02.30:514][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.06.26-04.02.30:518][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto3
+[2025.06.26-04.02.30:518][273]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_EnemySpawner_Auto30F9026E4465EE8AAEE68658FF96D0034.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto3.uasset'
+[2025.06.26-04.02.30:519][273]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.06.26-04.04.11:753][628]LogEditorTransaction: Undo Create Pin Link
+[2025.06.26-04.07.41:472][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3609.904541
+[2025.06.26-04.07.41:755][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.07.41:755][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3610.171143, Update Interval: 331.152679
+[2025.06.26-04.09.07:261][901]LogDerivedDataCache: C:/Users/SJTA1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.26-04.12.30:957][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.06.26-04.12.30:960][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.025
+[2025.06.26-04.12.30:960][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Enemy_A] ([2] browsable assets)...
+[2025.06.26-04.12.30:960][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_A]
+[2025.06.26-04.12.30:963][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_A_Auto4
+[2025.06.26-04.12.30:963][223]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_A_Auto4A5F570E546C3A961A2089994DFB07C04.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_Enemy_A_Auto4.uasset'
+[2025.06.26-04.12.30:965][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.06.26-04.12.30:965][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.06.26-04.12.30:970][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto4
+[2025.06.26-04.12.30:970][223]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_EnemySpawner_Auto40729A3FE44F43B0D9E3F60B66B689DC4.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto4.uasset'
+[2025.06.26-04.12.30:971][223]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.06.26-04.12.35:659][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner_C
+[2025.06.26-04.12.35:659][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner_C
+[2025.06.26-04.12.35:661][311]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner as actor: BP_EnemySpawner_C /Game/Week2.Week2:PersistentLevel.BP_EnemySpawner_C_0
+[2025.06.26-04.12.35:663][311]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner as actor: BP_EnemySpawner_C /Game/Week2.Week2:PersistentLevel.BP_EnemySpawner_C_0
+[2025.06.26-04.12.38:310][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.06.26-04.12.38:310][402]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.06.26-04.12.38:320][402]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner_C
+[2025.06.26-04.12.38:320][402]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner_C
+[2025.06.26-04.12.38:326][402]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner as actor: BP_EnemySpawner_C /Game/Week2.Week2:PersistentLevel.BP_EnemySpawner_C_UAID_70A8D3DB55DCC57502_1701456719
+[2025.06.26-04.12.38:327][402]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner as actor: BP_EnemySpawner_C /Game/Week2.Week2:PersistentLevel.BP_EnemySpawner_C_UAID_70A8D3DB55DCC57502_1701456719
+[2025.06.26-04.13.44:608][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3973.041992
+[2025.06.26-04.13.44:912][492]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.13.44:913][492]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3973.321777, Update Interval: 330.797455
+[2025.06.26-04.20.08:652][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4357.087402
+[2025.06.26-04.20.09:647][ 54]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.20.09:647][ 54]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4357.750977, Update Interval: 357.614075
+[2025.06.26-04.22.31:527][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.06.26-04.22.31:535][479]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Week2/8/KR/F8YD16GDXDX0VIADDK8KEG_Auto5
+[2025.06.26-04.22.31:536][479]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/F8YD16GDXDX0VIADDK8KEG_Auto5F4D543AD488E3AE076A951B370C26BC5.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/__ExternalActors__/Week2/8/KR/F8YD16GDXDX0VIADDK8KEG_Auto5.uasset'
+[2025.06.26-04.22.31:537][479]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.036
+[2025.06.26-04.22.31:537][479]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2025.06.26-04.22.31:537][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.06.26-04.22.31:537][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.06.26-04.22.31:543][479]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto5
+[2025.06.26-04.22.31:543][479]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_EnemySpawner_Auto58560CC7246F75671FFBA229545B96590.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto5.uasset'
+[2025.06.26-04.22.31:543][479]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.06.26-04.26.49:733][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4758.170898
+[2025.06.26-04.26.50:731][257]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.26.50:731][257]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4758.838867, Update Interval: 318.014465
+[2025.06.26-04.32.56:492][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5124.921387
+[2025.06.26-04.32.57:498][358]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.32.57:498][358]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5125.587402, Update Interval: 334.142883
+[2025.06.26-04.39.18:588][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5507.012207
+[2025.06.26-04.39.19:572][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.39.19:572][504]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5507.664062, Update Interval: 359.591675
+[2025.06.26-04.45.50:636][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5899.061035
+[2025.06.26-04.45.52:302][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.45.52:302][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5900.394043, Update Interval: 300.886261
+[2025.06.26-04.51.45:696][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6254.122070
+[2025.06.26-04.51.46:694][744]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.51.46:694][744]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6254.784668, Update Interval: 329.367340
+[2025.06.26-04.57.51:744][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6620.166016
+[2025.06.26-04.57.52:744][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-04.57.52:744][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6620.831055, Update Interval: 315.428925
+[2025.06.26-05.03.45:146][899]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6973.568848
+[2025.06.26-05.03.46:139][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-05.03.46:139][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6974.226074, Update Interval: 322.857758
+[2025.06.26-05.06.06:828][324]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 522...85d
+[2025.06.26-05.06.06:828][324]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.83 RefreshExpires: 1.546e+07
+[2025.06.26-05.06.07:828][327]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 522...85d Access[Expires: 2025.06.26-07.06.07 Remaining: 7200.16] Refresh[Expires: 2025-12-23T05:06:07.164Z Remaining: 15552000.16] State: Valid
+[2025.06.26-05.09.07:260][866]LogDerivedDataCache: C:/Users/SJTA1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.26-05.09.56:536][ 13]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7344.952148
+[2025.06.26-05.09.57:538][ 16]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-05.09.57:538][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7345.610840, Update Interval: 351.166718
+[2025.06.26-05.16.24:945][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7733.354004
+[2025.06.26-05.16.25:937][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-05.16.25:937][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7734.009277, Update Interval: 359.869995
+[2025.06.26-05.23.01:036][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8129.442383
+[2025.06.26-05.23.02:028][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-05.23.02:028][370]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8130.104492, Update Interval: 332.688995
+[2025.06.26-05.29.04:761][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8493.174805
+[2025.06.26-05.29.05:762][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-05.29.05:762][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8493.841797, Update Interval: 330.262756
+[2025.06.26-05.35.32:855][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8881.278320
+[2025.06.26-05.35.33:852][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-05.35.33:852][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8881.953125, Update Interval: 314.407166
+[2025.06.26-05.41.32:941][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9241.372070
+[2025.06.26-05.41.33:943][704]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-05.41.33:943][704]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9242.040039, Update Interval: 341.004059
+[2025.06.26-05.48.11:355][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9639.776367
+[2025.06.26-05.48.12:352][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-05.48.12:352][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9640.441406, Update Interval: 324.036987
+[2025.06.26-05.54.11:085][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9999.519531
+[2025.06.26-05.54.12:090][978]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-05.54.12:090][978]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10000.187500, Update Interval: 323.553589
+[2025.06.26-05.59.13:925][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.06.26-05.59.13:929][819]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Week2/8/KR/F8YD16GDXDX0VIADDK8KEG_Auto6
+[2025.06.26-05.59.13:929][819]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/F8YD16GDXDX0VIADDK8KEG_Auto65CB5FFC64A7C19A0070C17AC4A3B106B.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/__ExternalActors__/Week2/8/KR/F8YD16GDXDX0VIADDK8KEG_Auto6.uasset'
+[2025.06.26-05.59.13:934][819]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.035
+[2025.06.26-05.59.13:934][819]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2025.06.26-06.00.18:118][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10366.533203
+[2025.06.26-06.00.19:117][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-06.00.19:117][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10367.199219, Update Interval: 302.843719
+[2025.06.26-06.05.56:510][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10704.924805
+[2025.06.26-06.05.57:499][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-06.05.57:499][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10705.581055, Update Interval: 332.238525
+[2025.06.26-06.09.07:261][854]LogDerivedDataCache: C:/Users/SJTA1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.26-06.12.21:125][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11089.548828
+[2025.06.26-06.12.22:119][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-06.12.22:119][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11090.209961, Update Interval: 346.290466
+[2025.06.26-06.22.55:492][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11723.911133
+[2025.06.26-06.22.55:923][759]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-06.22.55:923][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11724.282227, Update Interval: 325.108185
+[2025.06.26-06.24.09:616][171]Cmd: TRANSACTION UNDO
+[2025.06.26-06.24.09:617][171]LogEditorTransaction: Undo Move Elements
+[2025.06.26-06.25.37:015][853]Cmd: SELECT NONE
+[2025.06.26-06.26.44:490][ 38]Cmd: SELECT NONE
+[2025.06.26-06.27.47:704][170]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.26-06.27.49:138][198]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.26-06.28.53:679][217]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12082.080078
+[2025.06.26-06.28.54:054][223]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.26-06.28.54:054][224]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12082.395508, Update Interval: 306.835541
+[2025.06.26-06.32.13:332][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.06.26-06.32.13:337][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Week2/9/VX/SP7VD2Q01JY7JKCVNAZVGC_Auto7
+[2025.06.26-06.32.13:337][367]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/SP7VD2Q01JY7JKCVNAZVGC_Auto79CAD63A3401B25B8FD9458844C96D3AB.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/__ExternalActors__/Week2/9/VX/SP7VD2Q01JY7JKCVNAZVGC_Auto7.uasset'
+[2025.06.26-06.32.13:339][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Week2/8/KR/F8YD16GDXDX0VIADDK8KEG_Auto7
+[2025.06.26-06.32.13:339][367]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/F8YD16GDXDX0VIADDK8KEG_Auto77A8FD292491541642D06D5B118DD98CF.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/__ExternalActors__/Week2/8/KR/F8YD16GDXDX0VIADDK8KEG_Auto7.uasset'
+[2025.06.26-06.32.13:342][367]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.033
+[2025.06.26-06.32.13:342][367]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.06.26-06.32.13:343][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Enemy_A] ([2] browsable assets)...
+[2025.06.26-06.32.13:343][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_A]
+[2025.06.26-06.32.13:364][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_A_Auto7
+[2025.06.26-06.32.13:364][367]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_A_Auto7EACC0A034E187C30305835A3B5D7737C.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_Enemy_A_Auto7.uasset'
+[2025.06.26-06.32.13:366][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.06.26-06.32.13:366][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.06.26-06.32.13:378][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto7
+[2025.06.26-06.32.13:378][367]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_EnemySpawner_Auto71113F43E405D5F5D95C63CBBD92D498E.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_EnemySpawner_Auto7.uasset'
+[2025.06.26-06.32.13:379][367]LogFileHelpers: Auto-saving content packages took 0.037
+[2025.06.26-06.33.15:489][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.06.26-06.33.15:497][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.26-06.33.15:600][428]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Week2/9/VX/SP7VD2Q01JY7JKCVNAZVGC
+[2025.06.26-06.33.15:601][428]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/SP7VD2Q01JY7JKCVNAZVGC8C4BBF6448DE422EF2282190DAEDA66D.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/__ExternalActors__/Week2/9/VX/SP7VD2Q01JY7JKCVNAZVGC.uasset'
+[2025.06.26-06.33.15:612][428]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Week2/8/KR/F8YD16GDXDX0VIADDK8KEG
+[2025.06.26-06.33.15:612][428]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/F8YD16GDXDX0VIADDK8KEGBAF9BC6C42409FBABC43C18A6ED05A2B.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/__ExternalActors__/Week2/8/KR/F8YD16GDXDX0VIADDK8KEG.uasset'
+[2025.06.26-06.33.15:639][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Enemy_A] ([2] browsable assets)...
+[2025.06.26-06.33.15:639][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_A]
+[2025.06.26-06.33.15:642][428]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy_A
+[2025.06.26-06.33.15:642][428]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_A58B5C3EB4B0B68AB045C84B3F301AB04.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/BP_Enemy_A.uasset'
+[2025.06.26-06.33.15:658][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.06.26-06.33.15:658][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.06.26-06.33.15:668][428]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.06.26-06.33.15:668][428]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_EnemySpawnerE044D75C44DE81C3034498BC0BB78949.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.06.26-06.33.15:689][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.900 ms (total: 263.742 ms)
+[2025.06.26-06.33.15:814][428]LogContentValidation: Display: Starting to validate 4 assets
+[2025.06.26-06.33.15:814][428]LogContentValidation: Enabled validators:
+[2025.06.26-06.33.15:816][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.26-06.33.15:816][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.26-06.33.15:816][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.26-06.33.15:816][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.26-06.33.15:816][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.26-06.33.15:816][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.26-06.33.15:819][428]AssetCheck: /Game/Week2 Validating asset
+[2025.06.26-06.33.15:819][428]AssetCheck: /Game/Blueprints/BP_Enemy_A Validating asset
+[2025.06.26-06.33.15:819][428]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.06.26-06.33.17:972][492]Cmd: CLOSE_SLATE_MAINFRAME
+[2025.06.26-06.33.17:996][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.06.26-06.33.18:041][492]LogStall: Shutdown...
+[2025.06.26-06.33.18:042][492]LogStall: Shutdown complete.
+[2025.06.26-06.33.18:134][492]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-06.33.18:140][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-06.33.18:273][492]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.26-06.33.18:273][492]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-06.33.18:273][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-06.33.18:340][492]LogSlate: Window 'MyFlyingShmup - Unreal Editor' being destroyed
+[2025.06.26-06.33.18:783][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2025.06.26-06.33.18:799][494]Cmd: QUIT_EDITOR
+[2025.06.26-06.33.18:799][494]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.26-06.33.18:819][494]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.26-06.33.18:825][494]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.26-06.33.18:825][494]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.26-06.33.18:828][494]LogWorld: UWorld::CleanupWorld for Week2, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-06.33.18:830][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-06.33.18:830][494]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Week2.Week2
+[2025.06.26-06.33.18:871][494]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.26-06.33.18:882][494]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.26-06.33.18:911][494]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-06.33.18:911][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-06.33.18:918][494]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-06.33.18:918][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-06.33.18:924][494]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-06.33.18:924][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-06.33.18:931][494]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-06.33.18:931][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-06.33.18:937][494]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-06.33.18:937][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-06.33.18:941][494]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-06.33.18:941][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-06.33.18:957][494]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.26-06.33.18:967][494]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.06.26-06.33.18:967][494]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.06.26-06.33.18:967][494]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.06.26-06.33.18:980][494]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.26-06.33.18:980][494]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.26-06.33.18:980][494]LogAudio: Display: Audio Device unregistered from world 'Week2'.
+[2025.06.26-06.33.18:981][494]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.26-06.33.18:989][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.26-06.33.18:992][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.26-06.33.19:011][494]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.26-06.33.19:011][494]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.26-06.33.19:012][494]LogWindowsTextInputMethodSystem: Activated input method: English (Australia) - (Keyboard).
+[2025.06.26-06.33.19:022][494]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.26-06.33.19:026][494]LogExit: Preparing to exit.
+[2025.06.26-06.33.19:208][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.06.26-06.33.19:212][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:213][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:216][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:217][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:218][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:218][494]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.19:218][494]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.26-06.33.20:058][494]LogEditorDataStorage: Deinitializing
+[2025.06.26-06.33.20:431][494]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.26-06.33.20:551][494]LogExit: Editor shut down
+[2025.06.26-06.33.20:561][494]LogExit: Transaction tracking system shut down
+[2025.06.26-06.33.21:476][494]LogExit: Object subsystem successfully closed.
+[2025.06.26-06.33.21:549][494]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.26-06.33.22:157][494]LogMemoryProfiler: Shutdown
+[2025.06.26-06.33.22:159][494]LogNetworkingProfiler: Shutdown
+[2025.06.26-06.33.22:159][494]LoadingProfiler: Shutdown
+[2025.06.26-06.33.22:160][494]LogTimingProfiler: Shutdown
+[2025.06.26-06.33.23:049][494]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.06.26-06.33.23:052][494]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.06.26-06.33.23:053][494]LogNFORDenoise: NFORDenoise function shutting down
+[2025.06.26-06.33.23:075][494]RenderDocPlugin: plugin has been unloaded.
+[2025.06.26-06.33.24:416][494]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.26-06.33.24:450][494]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.26-06.33.24:450][494]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDBC2AE43-46BE-265D-8858-B79EB27CCD95%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=a3ba5fb44403a2cec43e019aa65f9b00%7C52292787c3cc4e8ea4bd719a7170e85d%7C39551cbe-37eb-454e-a8fe-eff308848134&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.26-06.33.24:471][494]LogXGEController: Cleaning working directory: C:/Users/SJTA1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.06.26-06.33.24:489][494]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.06.26-06.33.24:489][494]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.06.26-06.33.24:490][494]LogPakFile: Destroying PakPlatformFile
+[2025.06.26-06.33.25:450][494]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.26-06.33.25:631][494]LogExit: Exiting.
+[2025.06.26-06.33.25:708][494]Log file closed, 06/26/25 16:33:25
