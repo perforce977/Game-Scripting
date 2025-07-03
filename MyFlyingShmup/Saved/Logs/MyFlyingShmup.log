@@ -3922,3 +3922,479 @@ Sampler Limit: 32
 [2025.07.03-04.50.20:557][217]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.03-04.50.20:557][217]AssetCheck: /Game/Week2 Validating asset
 [2025.07.03-04.50.20:557][217]AssetCheck: /Game/Blueprints/BP_Enemy_Base Validating asset
+[2025.07.03-04.52.24:604][871]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.03-04.52.24:604][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-04.52.24:604][871]MaterialEditorStats: Shader Count: 0
+[2025.07.03-04.52.24:604][871]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.07.03-04.52.24:655][873]MaterialEditorStats: Base pass shader without light map: 139 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.03-04.52.24:655][873]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.07.03-04.52.24:655][873]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.03-04.52.24:655][873]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-04.52.24:655][873]MaterialEditorStats: Shader Count: 3
+[2025.07.03-04.52.24:655][873]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.07.03-04.52.29:263][940]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.03-04.52.40:111][ 69]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.03-04.52.40:132][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.03-04.52.40:133][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-04.52.40:133][ 69]MaterialEditorStats: Shader Count: 0
+[2025.07.03-04.52.40:133][ 69]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.07.03-04.52.41:377][119]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.07.03-04.52.41:377][119]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.03-04.52.41:377][119]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-04.52.41:377][119]MaterialEditorStats: Shader Count: 1
+[2025.07.03-04.52.41:377][119]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.07.03-04.52.41:467][123]MaterialEditorStats: Base pass shader without light map: 141 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.03-04.52.41:467][123]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.07.03-04.52.41:467][123]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.03-04.52.41:467][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-04.52.41:467][123]MaterialEditorStats: Shader Count: 2
+[2025.07.03-04.52.41:467][123]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.07.03-04.52.49:701][519]LogMaterialEditor: Saving and Compiling material M_DamageFlash
+[2025.07.03-04.52.49:819][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.07.03-04.52.51:578][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.07.03-04.52.51:601][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-04.52.51:754][519]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_DamageFlash] ([1] browsable assets)...
+[2025.07.03-04.52.51:785][519]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_DamageFlash.M_DamageFlash]
+[2025.07.03-04.52.51:785][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_DamageFlash]
+[2025.07.03-04.52.51:787][519]LogSavePackage: Moving output files for package: /Game/Materials/M_DamageFlash
+[2025.07.03-04.52.51:788][519]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/M_DamageFlash134889A145A2E86999B413BB2506A861.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Materials/M_DamageFlash.uasset'
+[2025.07.03-04.52.51:806][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.402 ms (total: 2.12 sec)
+[2025.07.03-04.52.51:957][519]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.03-04.52.51:957][519]LogContentValidation: Enabled validators:
+[2025.07.03-04.52.51:957][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.03-04.52.51:957][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.03-04.52.51:957][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.03-04.52.51:957][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.03-04.52.51:957][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.03-04.52.51:957][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.03-04.52.51:957][519]AssetCheck: /Game/Materials/M_DamageFlash Validating asset
+[2025.07.03-04.54.44:019][ 85]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.03-04.54.44:043][ 85]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.03-04.54.44:047][ 85]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.03-04.54.44:064][ 86]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: ================================================
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Total job queries 433, among them cache hits 183 (42.26%), DDC hits 169 (39.03%), Duplicates 2 (0.46%)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Tracking 248 distinct input hashes that result in 199 distinct outputs (80.24%)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: RAM used: 139.95 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Shaders Compiled: 79
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Jobs assigned 79, completed 79 (100%)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Average time worker was idle: 548.02 s
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.12 s
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 2.66 s
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 2.74
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Shader code size: average 8.645 KiB, min 4.133 KiB, max 11.777 KiB
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.66 s
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Jobs were issued in 79 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Average processing rate: 2.96 jobs/sec
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Total thread time: 34.341 s
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Total thread preprocess time: 6.564 s
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Percentage time preprocessing: 19.11%
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Effective parallelization: 1.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 0.88 sec, max 0.93 sec, min 0.82 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.80 sec, max 0.83 sec, min 0.76 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    9 times, average 0.70 sec, max 0.79 sec, min 0.66 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.69 sec, max 0.75 sec, min 0.66 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.69 sec, max 0.72 sec, min 0.66 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.39% of total time (compiled   18 times, average 0.37 sec, max 0.42 sec, min 0.31 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 18.26% of total time (compiled    9 times, average 0.70 sec, max 0.79 sec, min 0.66 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.13% of total time (compiled    7 times, average 0.69 sec, max 0.75 sec, min 0.66 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.70% of total time (compiled   18 times, average 0.26 sec, max 0.31 sec, min 0.21 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.30% of total time (compiled    4 times, average 0.80 sec, max 0.83 sec, min 0.76 sec)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: === Material stats ===
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Materials Translated:    215
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Material Translation Only: 0.07 s (32%)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: Material Cache Hits: 10 (5%)
+[2025.07.03-04.54.53:710][665]LogShaderCompilers: Display: ================================================
+[2025.07.03-04.54.55:663][782]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8501.704102
+[2025.07.03-04.54.55:930][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-04.54.55:930][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8501.954102, Update Interval: 356.654572
+[2025.07.03-04.54.58:760][968]LogContentBrowser: Attempting asset rename: NewBlueprint -> EnemyDeath_Camera_Shake
+[2025.07.03-04.54.58:779][968]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.03-04.55.05:747][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/EnemyDeath_Camera_Shake.EnemyDeath_Camera_Shake
+[2025.07.03-04.55.05:748][221]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.07.03-04.55.09:402][394]LogSlate: Window 'EnemyDeath_Camera_Shake' being destroyed
+[2025.07.03-05.01.24:842][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8890.867188
+[2025.07.03-05.01.25:842][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.01.25:842][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8891.532227, Update Interval: 316.520264
+[2025.07.03-05.07.23:645][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9249.644531
+[2025.07.03-05.07.24:644][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.07.24:644][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9250.311523, Update Interval: 327.953735
+[2025.07.03-05.08.19:496][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.07.03-05.08.19:498][439]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.048
+[2025.07.03-05.08.19:499][439]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy_Base] ([2] browsable assets)...
+[2025.07.03-05.08.19:499][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_Base]
+[2025.07.03-05.08.19:503][439]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_Base_Auto7
+[2025.07.03-05.08.19:503][439]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_Base_Auto7092D32EB448484391FE3579C33935F5D.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_Enemy_Base_Auto7.uasset'
+[2025.07.03-05.08.19:504][439]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemyDeath_Camera_Shake] ([2] browsable assets)...
+[2025.07.03-05.08.19:504][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyDeath_Camera_Shake]
+[2025.07.03-05.08.19:508][439]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/EnemyDeath_Camera_Shake_Auto7
+[2025.07.03-05.08.19:508][439]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/EnemyDeath_Camera_Shake_Auto71522837240BD63556BDDEEB04DDAE1AB.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/EnemyDeath_Camera_Shake_Auto7.uasset'
+[2025.07.03-05.08.19:508][439]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.07.03-05.13.32:020][377]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9617.991211
+[2025.07.03-05.13.33:020][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.13.33:020][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9618.656250, Update Interval: 336.574615
+[2025.07.03-05.15.54:833][372]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.03-05.15.54:839][372]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.03-05.15.54:845][373]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.03-05.15.55:808][431]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.07.03-05.15.55:810][431]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.03-05.16.42:187][ 10]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.03-05.16.42:209][ 10]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.03-05.16.42:214][ 10]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.03-05.16.42:240][ 12]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.03-05.16.45:598][134]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.07.03-05.16.45:635][134]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.03-05.17.04:054][144]LogContentBrowser: Attempting asset rename: NewBlueprint -> WBP_EnemyHealthBar
+[2025.07.03-05.17.04:324][144]LogMetaData: Removing '/Game/UI/WBP_EnemyHealthBar.SKEL_WBP_EnemyHealthBar_C' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2025.07.03-05.17.04:324][144]LogMetaData: Removing '/Game/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar_C' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2025.07.03-05.17.04:324][144]LogMetaData: Removing '/Game/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2025.07.03-05.17.04:324][144]LogMetaData: Removing '/Game/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2025.07.03-05.17.04:324][144]LogMetaData: Removing '/Game/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2025.07.03-05.17.04:333][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-05.17.04:333][144]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_EnemyHealthBar] ([2] browsable assets)...
+[2025.07.03-05.17.04:353][144]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar]
+[2025.07.03-05.17.04:353][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_EnemyHealthBar]
+[2025.07.03-05.17.04:359][144]LogSavePackage: Moving output files for package: /Game/UI/WBP_EnemyHealthBar
+[2025.07.03-05.17.04:359][144]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/WBP_EnemyHealthBarAB51130F4CB56E0D2C4621AD76BE42B1.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/UI/WBP_EnemyHealthBar.uasset'
+[2025.07.03-05.17.04:368][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.545 ms (total: 2.15 sec)
+[2025.07.03-05.17.04:417][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.07.03-05.17.04:442][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.07.03-05.17.04:464][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.07.03-05.17.04:635][144]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.03-05.17.04:635][144]LogContentValidation: Enabled validators:
+[2025.07.03-05.17.04:635][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.03-05.17.04:635][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.03-05.17.04:635][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.03-05.17.04:635][144]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.03-05.17.04:635][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.03-05.17.04:635][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.03-05.17.04:637][144]AssetCheck: /Game/UI/WBP_EnemyHealthBar Validating asset
+[2025.07.03-05.17.06:202][231]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar
+[2025.07.03-05.17.06:204][231]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.07.03-05.17.06:214][231]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.07.03-05.17.06:227][231]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.07.03-05.17.06:802][231]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.07.03-05.17.06:804][231]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.07.03-05.17.07:120][231]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.07.03-05.17.07:133][231]LogSlate: Took 0.008840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.07.03-05.17.09:648][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.07.03-05.17.14:144][624]LogSlate: Window 'WBP_EnemyHealthBar' being destroyed
+[2025.07.03-05.17.21:367][955]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.03-05.17.23:643][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.07.03-05.17.25:997][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-05.17.26:111][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy_Base] ([2] browsable assets)...
+[2025.07.03-05.17.26:111][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_Base]
+[2025.07.03-05.17.26:117][216]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy_Base
+[2025.07.03-05.17.26:118][216]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_BaseA4FC516D41653CAA405071963A37C99D.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/BP_Enemy_Base.uasset'
+[2025.07.03-05.17.26:138][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.984 ms (total: 2.29 sec)
+[2025.07.03-05.17.26:264][216]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.03-05.17.26:264][216]LogContentValidation: Enabled validators:
+[2025.07.03-05.17.26:264][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.03-05.17.26:264][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.03-05.17.26:264][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.03-05.17.26:264][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.03-05.17.26:264][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.03-05.17.26:264][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.03-05.17.26:264][216]AssetCheck: /Game/Blueprints/BP_Enemy_Base Validating asset
+[2025.07.03-05.17.28:697][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-05.17.28:808][361]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemyDeath_Camera_Shake] ([2] browsable assets)...
+[2025.07.03-05.17.28:808][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyDeath_Camera_Shake]
+[2025.07.03-05.17.28:810][361]LogSavePackage: Moving output files for package: /Game/Blueprints/EnemyDeath_Camera_Shake
+[2025.07.03-05.17.28:810][361]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/EnemyDeath_Camera_ShakeF89410FB45CFFD8CAC607EBE2DB74A19.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/EnemyDeath_Camera_Shake.uasset'
+[2025.07.03-05.17.28:826][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.087 ms (total: 2.42 sec)
+[2025.07.03-05.17.28:930][361]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.03-05.17.28:930][361]LogContentValidation: Enabled validators:
+[2025.07.03-05.17.28:930][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.03-05.17.28:930][361]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.03-05.17.28:930][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.03-05.17.28:930][361]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.03-05.17.28:930][361]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.03-05.17.28:930][361]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.03-05.17.28:930][361]AssetCheck: /Game/Blueprints/EnemyDeath_Camera_Shake Validating asset
+[2025.07.03-05.17.30:210][436]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-05.17.30:210][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-05.17.30:267][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.07.03-05.17.31:724][522]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.07.03-05.17.31:724][522]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-05.17.31:724][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-05.17.31:806][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.07.03-05.19.17:663][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.07.03-05.19.17:666][322]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.072
+[2025.07.03-05.19.17:666][322]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_EnemyHealthBar] ([2] browsable assets)...
+[2025.07.03-05.19.17:671][322]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar]
+[2025.07.03-05.19.17:671][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_EnemyHealthBar]
+[2025.07.03-05.19.17:675][322]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_EnemyHealthBar_Auto8
+[2025.07.03-05.19.17:675][322]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/WBP_EnemyHealthBar_Auto886D4A653473A686A98BDBD9AC2B8CDCC.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/UI/WBP_EnemyHealthBar_Auto8.uasset'
+[2025.07.03-05.19.17:675][322]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.07.03-05.20.09:251][336]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10015.120117
+[2025.07.03-05.20.09:550][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.20.09:550][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10015.402344, Update Interval: 334.734344
+[2025.07.03-05.20.31:404][423]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.03-05.26.27:525][ 71]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10393.360352
+[2025.07.03-05.26.27:824][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.26.27:824][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10393.641602, Update Interval: 344.223145
+[2025.07.03-05.28.31:097][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy_A.BP_Enemy_A
+[2025.07.03-05.28.31:098][382]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.07.03-05.28.33:508][489]LogSlate: Window 'BP_Enemy_A' being destroyed
+[2025.07.03-05.28.33:519][489]LogSlate: Window 'BP_Enemy_A' being destroyed
+[2025.07.03-05.28.33:525][489]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-05.28.33:525][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-05.28.33:700][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.07.03-05.28.34:788][539]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy_Base.BP_Enemy_Base
+[2025.07.03-05.28.34:788][539]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.07.03-05.28.37:933][670]LogSlate: Window 'BP_Enemy_Base' being destroyed
+[2025.07.03-05.29.19:324][406]LogEditorTransaction: Undo Modify Component(s)
+[2025.07.03-05.29.55:218][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.07.03-05.29.55:223][995]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.059
+[2025.07.03-05.29.55:223][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy_Base] ([2] browsable assets)...
+[2025.07.03-05.29.55:223][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_Base]
+[2025.07.03-05.29.55:229][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_Base_Auto9
+[2025.07.03-05.29.55:229][995]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_Base_Auto902D83A874075C3F492B094B496958822.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_Enemy_Base_Auto9.uasset'
+[2025.07.03-05.29.55:231][995]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_EnemyHealthBar] ([2] browsable assets)...
+[2025.07.03-05.29.55:236][995]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar]
+[2025.07.03-05.29.55:236][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_EnemyHealthBar]
+[2025.07.03-05.29.55:240][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_EnemyHealthBar_Auto9
+[2025.07.03-05.29.55:240][995]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/WBP_EnemyHealthBar_Auto939E432744A127FD087F6E9A2957316A2.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/UI/WBP_EnemyHealthBar_Auto9.uasset'
+[2025.07.03-05.29.55:241][995]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: ================================================
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Total job queries 444, among them cache hits 185 (41.67%), DDC hits 169 (38.06%), Duplicates 2 (0.45%)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Tracking 257 distinct input hashes that result in 207 distinct outputs (80.54%)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: RAM used: 143.06 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Shaders Compiled: 88
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Jobs assigned 88, completed 88 (100%)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Average time worker was idle: 748.02 s
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.12 s
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 3.09 s
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Job life time (pending + execution): average 1.15 s, max 3.19
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Shader code size: average 8.47 KiB, min 3.457 KiB, max 12.625 KiB
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.19 s
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Jobs were issued in 88 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Average processing rate: 2.91 jobs/sec
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Total thread time: 39.361 s
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Total thread preprocess time: 6.899 s
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Percentage time preprocessing: 17.53%
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Effective parallelization: 1.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 0.88 sec, max 0.93 sec, min 0.82 sec)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.80 sec, max 0.83 sec, min 0.76 sec)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 0.75 sec, max 1.21 sec, min 0.66 sec)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.69 sec, max 0.75 sec, min 0.66 sec)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.69 sec, max 0.72 sec, min 0.66 sec)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 19.01% of total time (compiled   10 times, average 0.75 sec, max 1.21 sec, min 0.66 sec)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.36% of total time (compiled   19 times, average 0.38 sec, max 0.57 sec, min 0.31 sec)
+[2025.07.03-05.30.54:694][174]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.95% of total time (compiled   19 times, average 0.27 sec, max 0.39 sec, min 0.21 sec)
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.33% of total time (compiled    7 times, average 0.69 sec, max 0.75 sec, min 0.66 sec)
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.11% of total time (compiled    4 times, average 0.80 sec, max 0.83 sec, min 0.76 sec)
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display: === Material stats ===
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display: Materials Translated:    215
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display: Material Translation Only: 0.07 s (32%)
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display: Material Cache Hits: 10 (5%)
+[2025.07.03-05.30.54:695][174]LogShaderCompilers: Display: ================================================
+[2025.07.03-05.33.04:052][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10789.862305
+[2025.07.03-05.33.05:052][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.33.05:052][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10790.528320, Update Interval: 311.722778
+[2025.07.03-05.34.56:245][121]LogDerivedDataCache: C:/Users/SJTA1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.03-05.39.00:301][773]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11146.103516
+[2025.07.03-05.39.01:301][776]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.39.01:301][776]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11146.768555, Update Interval: 347.837769
+[2025.07.03-05.39.55:819][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.03-05.39.55:822][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Week2' took 0.027
+[2025.07.03-05.39.55:822][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy_Base] ([2] browsable assets)...
+[2025.07.03-05.39.55:822][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_Base]
+[2025.07.03-05.39.55:829][939]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_Base_Auto0
+[2025.07.03-05.39.55:829][939]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_Base_Auto0EF9A4DA340CA43EF8B37D286E83E74B8.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/Autosaves/Game/Blueprints/BP_Enemy_Base_Auto0.uasset'
+[2025.07.03-05.39.55:834][939]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.07.03-05.45.27:029][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11532.820312
+[2025.07.03-05.45.28:028][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.45.28:028][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11533.488281, Update Interval: 356.806549
+[2025.07.03-05.52.19:092][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11944.889648
+[2025.07.03-05.52.20:091][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.52.20:091][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11945.556641, Update Interval: 351.432220
+[2025.07.03-05.58.53:477][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12339.290039
+[2025.07.03-05.58.54:479][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-05.58.54:479][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12339.959961, Update Interval: 353.376862
+[2025.07.03-06.05.31:886][547]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12737.708984
+[2025.07.03-06.05.32:886][550]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.03-06.05.32:886][550]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12738.376953, Update Interval: 330.744354
+[2025.07.03-06.07.57:398][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-06.07.57:519][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy_Base] ([2] browsable assets)...
+[2025.07.03-06.07.57:519][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_Base]
+[2025.07.03-06.07.57:527][ 40]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy_Base
+[2025.07.03-06.07.57:529][ 40]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/BP_Enemy_BaseD55DF56E41B345E7102BC988E451A405.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/Blueprints/BP_Enemy_Base.uasset'
+[2025.07.03-06.07.57:548][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.795 ms (total: 2.57 sec)
+[2025.07.03-06.07.57:662][ 40]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.03-06.07.57:662][ 40]LogContentValidation: Enabled validators:
+[2025.07.03-06.07.57:662][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.03-06.07.57:662][ 40]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.03-06.07.57:662][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.03-06.07.57:662][ 40]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.03-06.07.57:662][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.03-06.07.57:662][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.03-06.07.57:662][ 40]AssetCheck: /Game/Blueprints/BP_Enemy_Base Validating asset
+[2025.07.03-06.07.59:313][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.07.03-06.08.03:672][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-06.08.03:779][379]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_EnemyHealthBar] ([2] browsable assets)...
+[2025.07.03-06.08.03:785][379]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar]
+[2025.07.03-06.08.03:785][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_EnemyHealthBar]
+[2025.07.03-06.08.03:789][379]LogSavePackage: Moving output files for package: /Game/UI/WBP_EnemyHealthBar
+[2025.07.03-06.08.03:790][379]LogSavePackage: Moving '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Saved/WBP_EnemyHealthBar12EBBFA749F0D1ED2CEEFD9C7C62C975.tmp' to '../../../../../../Users/SJTA1/OneDrive/Documents/Github/Game Scripting/Game-Scripting/MyFlyingShmup/Content/UI/WBP_EnemyHealthBar.uasset'
+[2025.07.03-06.08.03:806][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.113 ms (total: 2.70 sec)
+[2025.07.03-06.08.03:932][379]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.03-06.08.03:932][379]LogContentValidation: Enabled validators:
+[2025.07.03-06.08.03:932][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.03-06.08.03:932][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.03-06.08.03:932][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.03-06.08.03:932][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.03-06.08.03:932][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.03-06.08.03:932][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.03-06.08.03:933][379]AssetCheck: /Game/UI/WBP_EnemyHealthBar Validating asset
+[2025.07.03-06.08.06:801][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.07.03-06.08.09:323][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.07.03-06.08.09:383][683]LogStall: Shutdown...
+[2025.07.03-06.08.09:383][683]LogStall: Shutdown complete.
+[2025.07.03-06.08.09:498][683]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.09:498][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.09:507][683]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.09:507][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.09:581][683]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.09:581][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.09:662][683]LogSlate: Window 'MyFlyingShmup - Unreal Editor' being destroyed
+[2025.07.03-06.08.10:883][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2025.07.03-06.08.10:914][683]Cmd: QUIT_EDITOR
+[2025.07.03-06.08.10:914][684]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.07.03-06.08.10:944][684]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.07.03-06.08.10:949][684]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.07.03-06.08.10:950][684]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.07.03-06.08.10:964][684]LogWorld: UWorld::CleanupWorld for Week2, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.10:967][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.10:967][684]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Week2.Week2
+[2025.07.03-06.08.11:048][684]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.07.03-06.08.11:065][684]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.07.03-06.08.11:109][684]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:109][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:121][684]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:121][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:129][684]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:129][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:139][684]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:139][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:147][684]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:148][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:156][684]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:156][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:164][684]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:165][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:173][684]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:173][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:182][684]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:182][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:190][684]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:190][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:197][684]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:198][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:206][684]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:206][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:216][684]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-06.08.11:216][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-06.08.11:245][684]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.07.03-06.08.11:259][684]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.07.03-06.08.11:259][684]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.07.03-06.08.11:259][684]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.07.03-06.08.11:650][684]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.07.03-06.08.11:650][684]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.07.03-06.08.11:651][684]LogAudio: Display: Audio Device unregistered from world 'Week2'.
+[2025.07.03-06.08.11:652][684]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.07.03-06.08.11:659][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.03-06.08.11:669][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.03-06.08.11:701][684]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.07.03-06.08.11:701][684]LogAudio: Display: Audio Device Manager Shutdown
+[2025.07.03-06.08.11:703][684]LogWindowsTextInputMethodSystem: Activated input method: English (Australia) - (Keyboard).
+[2025.07.03-06.08.11:713][684]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.07.03-06.08.11:714][684]LogExit: Preparing to exit.
+[2025.07.03-06.08.11:932][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2025.07.03-06.08.11:939][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:941][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:945][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:946][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:947][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:947][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:947][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:947][684]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.11:947][684]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.03-06.08.13:250][684]LogEditorDataStorage: Deinitializing
+[2025.07.03-06.08.13:698][684]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.07.03-06.08.13:899][684]LogExit: Editor shut down
+[2025.07.03-06.08.13:915][684]LogExit: Transaction tracking system shut down
+[2025.07.03-06.08.15:054][684]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 7.
+[2025.07.03-06.08.15:156][684]LogExit: Object subsystem successfully closed.
+[2025.07.03-06.08.15:227][684]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.07.03-06.08.15:886][684]LogMemoryProfiler: Shutdown
+[2025.07.03-06.08.15:888][684]LogNetworkingProfiler: Shutdown
+[2025.07.03-06.08.15:889][684]LoadingProfiler: Shutdown
+[2025.07.03-06.08.15:890][684]LogTimingProfiler: Shutdown
+[2025.07.03-06.08.17:349][684]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.07.03-06.08.17:352][684]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.07.03-06.08.17:353][684]LogNFORDenoise: NFORDenoise function shutting down
+[2025.07.03-06.08.17:354][684]RenderDocPlugin: plugin has been unloaded.
+[2025.07.03-06.08.17:414][684]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.07.03-06.08.17:414][684]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEC8E0374-4F5E-18FE-8327-83968B6E97E3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=a3ba5fb44403a2cec43e019aa65f9b00%7C52292787c3cc4e8ea4bd719a7170e85d%7C39551cbe-37eb-454e-a8fe-eff308848134&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.07.03-06.08.18:543][684]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.07.03-06.08.18:583][684]LogXGEController: Cleaning working directory: C:/Users/SJTA1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.07.03-06.08.18:614][684]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.07.03-06.08.18:614][684]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.07.03-06.08.18:616][684]LogPakFile: Destroying PakPlatformFile
+[2025.07.03-06.08.20:507][684]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.07.03-06.08.20:702][684]LogExit: Exiting.
+[2025.07.03-06.08.20:781][684]Log file closed, 07/03/25 16:08:20
